@@ -97,7 +97,7 @@ sudo ./network.sh deployCC -ccn basic -ccp ../asset-transfer-basic/chaincode-jav
 ### Cloning the Repository:
 #### Starting the fabric-network :
 ```bash
-git clone https://github.com/rohith-bandi/evault_blockchain
+git clone https://github.com/nihal1521/AI-Block-Chain-Based-E-vault-for-storing-legal-records
 cd path/to/fabric-samples/test-network
 ./network.sh down
 sudo ./network.sh up -s couchdb
